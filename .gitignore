@@ -1,0 +1,5 @@
+credentials.ini
+venv/
+__pycache__/
+plots/
+logs/
