@@ -1,6 +1,6 @@
 dataframe_image==0.1.1
 dateparser==1.1.1
-py-cord==1.7.3
+py-cord>=1.0.0,<2.0.0
 matplotlib==3.5.1
 pandas==1.4.1
 plotly==5.6.0
